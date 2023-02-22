@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>915700694003-kaphvq5ufuokdhp3goi7p437t74r0g15.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.915700694003-kaphvq5ufuokdhp3goi7p437t74r0g15</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASHb7uvjaAyobvcTvMKp2RLZiXirGku9g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>915700694003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>utexas.WeardenJulian-HW5</string>
+	<key>PROJECT_ID</key>
+	<string>weardenjulian-hw6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weardenjulian-hw6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:915700694003:ios:9281a8dc5971b586f7b086</string>
+</dict>
+</plist>
