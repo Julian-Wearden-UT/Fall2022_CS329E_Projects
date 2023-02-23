@@ -1,4 +1,4 @@
-# CS329E Elements of Mobile Programming Projects
+# Assignment 3
 
 ## Academic Integrity Disclaimer
 
