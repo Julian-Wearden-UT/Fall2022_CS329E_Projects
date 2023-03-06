@@ -32,4 +32,4 @@ Practice with various types of gesture recognition for simple app.
 
 ##
 ###### This project was completed at UT Austin in the Fall of 2022 by: 
-###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden
+###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden</a>
